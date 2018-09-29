@@ -25,7 +25,7 @@ SECRET_KEY = '&j4h8m0-80wbs&s1i(lxe7yxa-u-f=2$tf-(882zbp54jrqfpz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' chelseapaige.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'chelseapaige.pythonanywhere.com']
 
 
 # Application definition
